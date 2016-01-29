@@ -1,0 +1,791 @@
+
+scientist develop use scientiﬁc softwar
+
+erskin hannay
+dept softwar engin
+simula research laboratori
+dept informat univ oslo
+johannay simula
+carolyn macleod
+dept comput scienc
+univers toronto
+cmacleod utoronto
+
+janic singer
+softwar engin group
+nation research council canada
+janic singer nrc cnrc
+
+han petter langtangen
+center biomed comput
+simula research laboratori
+dept informat univ oslo
+hpl simula
+dietmar pfahl
+dept softwar engin
+simula research laboratori
+dept informat univ oslo
+dietmarp simula
+greg wilson
+dept comput scienc
+univers toronto
+gvwilson utoronto
+
+abstract
+
+motiv
+
+new knowledg scienc engin reli increasingli result produc scientiﬁc softwar therefor
+know scientist develop use softwar
+research critic ass necess improv current develop practic make decis
+futur alloc resourc end
+paper present result survey conduct onlin
+octob decemb  receiv almost  respons main conclus knowledg
+requir develop use scientiﬁc softwar primarili acquir peer self studi rather
+formal educ train number scientist use supercomput small compar number use desktop intermedi comput scientist reli primarili softwar larg user base
+mani scientist believ softwar test import smaller number believ sufﬁcient understand test concept
+tendenc scientist rank standard softwar engin concept higher work larg softwar develop project team uniform trend
+associ rank import softwar engin concept project team size
+
+probabl singl scientist
+point time use softwar system analyz visual
+simul process data mani scientist use softwar daili other develop use
+wider commun
+mani research point
+wide chasm gener comput commun scientiﬁc comput commun result
+littl exchang idea relev scientiﬁc
+applic softwar
+one reason scientiﬁc comput develop must intim knowledg applic
+domain scienc wherea regular softwar develop say enterpris resourc plan system
+develop much le like need domain expert follow scientiﬁc softwar develop like
+among end user wherea develop tradit softwar engin like scientiﬁc
+softwar also often explor purpos softwar usual help understand new problem impli front speciﬁc softwar requir
+difﬁcult imposs may inhibit initi
+fruit collabor softwar engin scientist
+
+sec may  vancouv canada
+    ieee
+
+
+ic workshop
+
+whether fact caus differ
+develop process scientiﬁc softwar versu
+softwar whether one appli softwar
+engin process develop scientiﬁc softwar subject activ investig howev
+obviou differ develop process
+role develop use differ kind
+research softwar
+aim studi therefor investig
+major work scientist develop use scientiﬁc softwar day day work overal research
+question list
+rq scientist learn know develop use scientiﬁc softwar
+rq scientist learn know develop use scientiﬁc softwar
+rq import develop use scientiﬁc softwar scientist
+rq much work time scientist spend
+develop use scientiﬁc softwar
+rq scientist spend time develop use scientiﬁc softwar past
+rq scale hardwar scientist develop use
+scientiﬁc softwar
+rq size user commun scientiﬁc softwar
+rq familiar scientist standard concept
+softwar engin
+rq program size time spent program
+team size inﬂuenc scientist opinion import good softwar develop practic
+
+research method
+
+research question formul expect regard question set hypothes
+hypothes turn gave rise questionnair item
+given onlin survey advertis
+mail list bulletin board word mouth
+advertis onlin print edit
+american scientist magazin
+
+result
+
+demograph
+
+ usabl respons collect octob
+decemb  scientist classiﬁ
+age rang year  respons
+year  respons remain age rang
+year year year receiv 
+ respons repect fifteen respond
+disclos age
+
+valid respons receiv total countri respons came ﬁve countri unit state canada unit kingdom germani
+norway     respons
+respect group contin respons came
+europ north america  respons includ russia turkey  respons respect
+follow australia new zealand asia
+respons respect number respons
+south america central america africa
+three geograph region taken togeth
+two third respond state
+highest academ degre equival
+state degre equival
+state degre equival
+respond state
+academ research professor post doc similar follow graduat student programm
+govern research scientist engin
+softwar engin teacher manag supervisor industri research scientist
+system administr laboratori technician
+clinician percentag add 
+scientist given opportun check
+one option describ current occup
+
+main find
+
+research question present associ expect form hypothes give relev survey result
+reﬁn rq follow two hypothes
+ha scientist learn know
+develop softwar inform
+peer rather formal train
+hb scientist learn know
+use softwar inform
+peer rather formal train
+survey result
+ha use ﬁve point scale import
+import somewhat import import
+import respons state inform self
+studi import import develop softwar state inform learn peer import import state formal educ educ institut import import state formal train work
+import import
+hb respons state inform self
+studi import import use softwar
+state inform learn peer import
+import state formal educ
+
+
+educ institut import import
+state formal train work import import
+
+reﬁn rq follow two hypothes
+ha scientist learn know develop softwar earli career undergradu
+graduat degre equival year industri
+hb scientist learn know use
+softwar earli career undergradu
+graduat degre equival year industri
+survey result
+ha one ﬁnding relat hypothesi ha
+formal educ import import
+detail level survey result indic
+import graduat studi clearli greater
+undergradu studi turn clearli
+greater high school studi anoth ﬁnding relat hypothesi ha formal train work
+consid import import
+independ whether scientist receiv formal train
+workplac learn inform self studi
+peer follow trend last ﬁve year
+profession work import learn
+develop scientiﬁc softwar period six
+ten year ago eleven year ago longer year
+ago howev trend pronounc effect
+recenc thu higher level formal educ
+hb similar result ha import
+graduat studi clearli greater undergradu studi turn clearli greater
+high school studi also import learn
+softwar develop profession work increas
+slightli recent profession work
+
+reﬁn rq follow two hypothes
+ha develop scientiﬁc softwar import major scientist
+hb use scientiﬁc softwar import major
+scientist
+survey result
+ha respons state develop scientiﬁc softwar import import
+research state develop scientiﬁc softwar
+import import research other
+hb respons state use scientiﬁc
+softwar import import research ask whether use scientiﬁc softwar might import other
+
+reﬁn rq follow two hypothes
+ha scientist spend le ten hour one day
+per week le work hour
+
+develop softwar
+hb scientist spend le ten hour one day
+per week le work hour
+use softwar research purpos
+survey result
+ha averag scientist spend approxim
+work time develop scientiﬁc softwar
+hb averag scientist spend approxim
+work time use scientiﬁc softwar
+
+reﬁn rq follow two hypothes
+ha past scientist engin use spend le
+time develop softwar today
+hb past scientist engin use spend le
+time use softwar today
+survey result
+ha use ﬁve point scale much le time le
+time amount time time much
+time respons state scientist spend
+much time develop scientiﬁc softwar
+year ago state scientist spend
+much time develop scientiﬁc softwar
+year ago state scientist spend
+much time develop scientiﬁc softwar
+year ago
+hb respons state scientist spend
+much time use scientiﬁc softwar
+year ago state scientist spend
+much time use scientiﬁc softwar
+year ago state scientist spend much
+time use scientiﬁc softwar year ago
+
+reﬁn rq follow two hypothes
+ha scientist use desktop comput laptop
+softwar develop work develop
+scientiﬁc softwar intermedi comput parallel small size cluster le ever develop scientiﬁc softwar supercomput
+hb scientist use desktop comput laptop
+run scientiﬁc softwar use scientiﬁc softwar intermedi comput parallel smallsiz cluster le ever use scientiﬁc
+softwar supercomput
+survey result
+ha desktop comput scientist develop scientiﬁc softwar use exclus desktop comput scientist spend
+time develop scientiﬁc softwar use desktop
+comput scientist never develop scientiﬁc softwar desktop comput intermedi comput scientist never use intermedi
+comput develop scientiﬁc softwar
+
+
+scientist spend le time develop scientiﬁc softwar use intermedi comput
+scientist alway develop scientiﬁc softwar
+intermedi comput supercomput scientist never use supercomput develop scientiﬁc softwar scientist spend le
+time develop scientiﬁc softwar use supercomput scientist alway develop scientiﬁc
+softwar supercomput spend
+time develop scientiﬁc softwar supercomput averag time scientist state spend
+averag time develop scientiﬁc softwar
+use supercomput time develop scientiﬁc softwar use intermedi comput
+time develop scientiﬁc softwar use desktop
+comput note averag add 
+respond either provid data
+add  provid respons three
+hardwar categori latter case assum
+provid data hardwar categori impli
+time develop scientiﬁc softwar spent hardwar
+categori
+hb desktop comput scientist use
+scientiﬁc softwar exclus desktop comput
+scientist spend time
+use scientiﬁc softwar desktop comput
+scientist never use scientiﬁc softwar desktop
+comput intermedi comput scientist
+never use scientiﬁc softwar intermedi comput
+scientist spend le time
+use scientiﬁc softwar intermedi comput
+scientist alway use scientiﬁc softwar
+intermedi comput supercomput scientist never use scientiﬁc softwar supercomput
+scientist spend le time
+use softwar supercomput scientist alway use scientiﬁc softwar supercomput
+spend time use
+scientiﬁc softwar supercomput averag time scientist state spend averag time
+use scientiﬁc softwar supercomput
+time use scientiﬁc softwar intermedi comput
+time use scientiﬁc softwar desktop
+comput note averag add 
+respond either provid data
+add  provid respons three
+hardwar categori latter case assum
+provid data hardwar categori impli
+time use scientiﬁc softwar spent hardwar
+categori standard deviat larger ha
+hb scientist use develop scientiﬁc softwar
+reﬁn rq follow hypothesi
+
+scientiﬁc softwar use either small
+number peopl larg number
+survey result respond believ
+import scientiﬁc softwar use
+ user worldwid contrast respond believ import softwar use
+le user worldwid similar pattern appli
+second third fourth import scientiﬁc softwar use
+reﬁn rq follow two hypothes
+ha scientist familiar standard softwar engin concept
+hb scientist consid standard softwar engin concept import work
+survey result scientist ask rank understand follow softwar engin concept
+softwar requir elicit analyz specifi priorit function non function requir softwar design specifi architectur
+detail design use design contract design pattern
+pseudo code uml softwar construct code
+compil defens program softwar veriﬁc
+correct proof model check static analysi
+inspect softwar test unit test integr
+test accept test regress test code coverag converg analysi softwar mainten
+correct defect port new platform refactor
+softwar product manag conﬁgur manag version control releas plan softwar project
+manag cost effort estim
+task plan
+personnel alloc scientist ask assign
+softwar engin concept import rank question scientist understand
+softwar engin concept use follow ﬁvepoint scale idea mean vagu understand novic understand understand
+part expert level understand question
+scientist judgment import concept work use follow ﬁve point scale
+import import somewhat import import import relat question
+follow formul well think
+understand follow softwar engin concept import work
+figur summar result relat ha hb
+black white bar show rel frequenc percentag answer two top categori
+understand import respect label
+good expert understand repres answer categori
+understand part expert level understand gray gap bar repres differ combin percentag two top categori
+assum understand softwar engin concept
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+softwar engin concept
+
+
+
+
+
+good expert understand
+
+import import
+
+gap
+
+figur perceiv import versu understand standard softwar engin concept
+
+perceiv import concept use
+respons two top categori want
+check whether scientist least much good
+expert level understand standard softwar engin concept believ concept import
+import work survey result show
+case concept softwar construct softwar veriﬁc particular softwar test
+reﬁn rq follow hypothesi
+scientist rank import standard softwar develop practic softwar develop independ size program
+work amount time spend
+develop scientiﬁc softwar import rank
+increas size team part
+survey result use one way analys varianc
+anova compar averag rank import score
+group deﬁn project size group deﬁn
+team size sinc interest pairwis
+comparison group employ tukey hsd
+method post hoc comparison anova null
+hypothes differ group reject
+
+
+import softwar requir respond
+involv small project work small
+team like rank softwar requir
+somewhat le import respond involv
+larger project larger team one except
+trend respond work larg team
+also rank softwar requir le import relationship time spent work softwar develop rank import softwar requir
+le clear nevertheless data show peopl
+report lowest rank softwar requir spend
+
+signiﬁcantli le time develop softwar peopl
+report highest rank
+import softwar design result anova
+show mean rank import softwar
+design differ respond engag differ
+project size differ team size
+gener scientist work small project le  loc
+team one two peopl rank softwar design
+le import peopl work larger project
+bigger team scientist rank import
+softwar design highest spend signiﬁcantli time
+develop softwar report lower rank
+import
+import softwar construct rank
+concept gener high overal compar larg
+small project scientist work middl size project
+rank concept higher rank import
+differ rank team size time spent develop softwar tend increas import rank
+concept particular scientist rank concept
+import spend signiﬁcantli time develop
+softwar scientist
+import softwar veriﬁc scientist
+rank softwar veriﬁc somewhat import
+differ signiﬁcantli either project size team
+size differ time spent develop softwar
+rank score margin signiﬁc
+evid rank veriﬁc import
+import report higher proport time
+develop softwar rank veriﬁc
+unimport
+import softwar test test gener consid import differ across group statist signiﬁc small import rank signiﬁcantli lower slightli among scientist work
+smaller project le  loc rank slightli
+higher among scientist mid size team larger
+smaller team scientist gave test rank
+import second lowest rank spend signiﬁcantli le
+time develop softwar gave test
+highest rank import import
+import softwar mainten softwar mainten gener rank moder import
+relationship project size somewhat unclear
+data seem suggest rank lower among scientist
+involv smaller rather larger project
+similarli higher import rank associ scientist work larger rather smaller team
+gener small trend increas
+time spent develop softwar associ increas
+rank import
+import softwar product manag although
+pair wise comparison statist signiﬁc
+
+
+
+
+
+
+
+difﬁcult summar analysi show
+fairli clear trend increas import
+concept associ increas project size
+team size likewis time spent develop softwar gener increas increas rank import
+concept scientist spend time develop softwar rank concept higher
+spend le time develop softwar
+import softwar project manag softwar
+project manag gener rank moder
+low import relationship rank
+project team size clear scientist work
+small project le  loc team le
+three peopl rank concept low import
+other rank concept slightli higher somewhat
+import relationship rank import time spent develop softwar statist signiﬁc clear trend evid
+rank import concept increas time
+spent develop softwar rank import import somewhat import
+import averag time spent develop softwar
+assign rank import concept
+almost low assign lowest
+rank import
+
+discus
+
+discus ﬁnd relev implic ﬁnding view implic
+perspect scientiﬁc comput commun softwar engin commun also discus press threat valid survey
+
+import scientiﬁc softwar
+
+result rq studi show develop use scientiﬁc softwar high import
+scientist research almost half respond
+state believ develop scientiﬁc softwar import scientist question ask
+allow draw direct conclus hypothesi import develop use scientiﬁc
+softwar increas time state belief
+scientist today much larger amount data gener archiv ﬁve ten year ago may interpret indirect support hypothesi
+corrobor evid ﬁnding rq indic scientist spend averag
+total work time develop scientiﬁc softwar
+ total work time use scientiﬁc softwar expect ﬁnding rq clearli
+support hypothesi today scientist spend
+
+much time develop use scientiﬁc
+softwar ﬁve ten year ago
+
+softwar engin practic
+
+result rq indic great deal
+variat level understand standard softwar
+engin concept scientist level import scientist assign standard softwar engin concept mostli consist understand
+concept found howev particular
+concept softwar test softwar veriﬁc
+scientist assign averag higher level import
+concept judg level understand
+concept
+softwar test particularli challeng scientiﬁc softwar answer known contain
+mathemat approxim error unknown size
+speciﬁc challeng consist separ softwar
+bug model error approxim error moreov correct output run simul code
+seldom known make standard test procedur
+softwar engin regress test blackbox test le appropri scientiﬁc softwar mani
+situat fact may reason scientist
+instead focus test techniqu base
+mathemat insight scientiﬁc problem solv
+quit common soon evid correct code
+provid use veriﬁ output regress test howev postul scientist mostli reinvent
+concept rather import techniqu
+softwar engin thu although beneﬁci
+teach scientist softwar engin test techniqu one must awar scientiﬁc softwar test
+rais issu yet address sufﬁcient
+softwar engin commun
+rational behind rq larger project
+larger develop team might increas perceiv import variou softwar engin practic
+result support rq extent larg project
+larg team associ higher perceiv import
+certain softwar engin concept small
+project small team consist trend
+associ link increas project team size
+perceiv import softwar engin concept
+
+educ train
+
+result rq rq support hypothes
+develop use scientiﬁc softwar inform
+self studi inform learn peer clearli
+import formal educ academ institut
+formal train work place ﬁnding also
+
+
+suggest learn educ institut
+learn profession work becom import
+recent occur
+postul observ due follow first gener lack formal train
+program softwar develop among scientist
+second train scientist receiv often suppli comput scienc depart give gener softwar cours scientist might see relev third aspect scientist may see
+need formal train program softwar
+develop code often start small grow
+larg time softwar prove use scientiﬁc investig demand proper softwar engin therefor seldom visibl late
+modern scientiﬁc softwar tend complex
+increas awar among scientist need
+better develop tool formal train howev suggest ﬁnding awar aris
+primarili larger project difﬁcult experi
+project met basic educ train target practition scienc engin therefor import
+howev mani engin program fact remov program cours formal train
+numer method curriculum sinc ﬁnding
+clearli suggest scientiﬁc softwar becom increasingli import increas amount time
+spent develop use scientiﬁc softwar
+one ask move right direct answer lie depth studi tell
+scientist engin use develop softwar
+
+scale
+
+scientiﬁc softwar either use larg number peopl  user small
+number peopl le three size categori
+ user receiv clearli largest number respons consist greater respons
+four top import piec softwar use
+scientist reli mostli softwar larg user
+base may come result increas number
+commerci packag open sourc project
+commun effort establish common softwar base
+scientist need program context often restrict smaller problem depend code problem speciﬁc mix person problem depend
+code interact larger gener softwar framework bring forward challeng test debug see sinc scientist complet control detail contrast past
+scientist often complet control write comour ﬁnding rq partli support hypothesi
+
+plete code way still domin principl univers educ
+regard rq result studi support hypothesi major scientist use desktop comput time develop use scientiﬁc softwar result studi conﬁrm hypothes le scientist ever use supercomput
+either develop use scientiﬁc softwar actual
+almost quarter scientist use supercomput develop scientiﬁc softwar sometim ﬁfth use
+scientiﬁc sometim supercomput howev
+spend ﬁfth time develop use scientiﬁc softwar supercomput
+mani supercomput center signiﬁc staff
+help scientist softwar issu compet
+transfer help cannot underestim nevertheless take account import desktop
+small cluster comput indic survey one
+consid alloc resourc improv
+scientist compet develop techniqu tool
+relat desktop small cluster comput
+
+threat valid
+
+discus press issu studi
+construct valid pertain well measur
+empir studi reﬂect concept investig
+also well deﬁn concept studi
+translat meaning research question
+appropri deriv hypothes
+extent survey questionnair item appropri
+give answer hypothes research question
+made effort follow standard guidelin design survey questionnair ran questionnair pilot studi ﬁeld mean valid
+questionnair item nevertheless sinc ﬁrst
+attempt sever item may improv
+futur applic survey
+extern valid concern extent conclus drawn studi speciﬁc operation
+transfer variat operation
+pertain well conclus transfer
+prospect respond indic section
+scientist certain region repres
+great number therefor unclear well conclus transfer scientist region
+statist conclus valid pertain conclus
+drawn statist analys appropri
+statist method use analys regard latter assumpt anova
+popul distribut normal standard
+deviat group case prieveri empir studi shortcom
+
+
+refer
+
+advertis survey american scientist page 
+novemb decemb 
+basili cruze carver hochstein
+hollingsworth zelkowitz understand high perform comput commun softwar engin perspect ieee softwar
+juli august 
+carver kendal squir post
+softwar develop environ scientiﬁc engin softwar seri case studi proc intern confer softwar engin page  
+fowler survey research method sage third edit 
+greenough worth comput scienc
+engin depart softwar develop best practic
+technic report ral   sftc rutherford appleton laboratori 
+sander kelli deal risk scientiﬁc softwar develop
+ieee softwar
+juli august 
+sander kelli deal risk scientiﬁc softwar develop
+ieee softwar
+juli august 
+segal softwar engin met research scientist
+empir softwar engin   
+segal morri develop scientiﬁc softwar ieee
+softwar juli august 
+shadish cook campbel experiment quasi experiment design gener causal
+infer houghton mifﬂin 
+smith lai khedri requir analysi engin comput systemat approach
+improv softwar reliabl reliabl comput special issu reliabl engin comput
+tang develop scientiﬁc comput softwar current
+process futur direct master thesi depart
+comput softwar faculti engin mcmaster univers 
+
+ori knowledg subgroup popul distribut
+nevertheless larg sampl size justiﬁ use
+anova estim mean whichev popul distribut group may present
+state knowledg mean seem sensibl summari
+express group respons variabl regard conclus drawn larg sampl size give
+statist analys adequ power show effect
+howev note highli signiﬁc effect
+necessarili larg effect took account
+report section
+
+relat work
+
+knowledg public softwar
+engin focu develop scientiﬁc softwar smith comput scientist address softwar engin topic sever work
+basili discus potenti interplay scientist softwar engin context code
+high perform comput supercomput sander
+kelli interview scientist two univers
+better understand develop practic greenough
+worth review scientiﬁc softwar develop practic base much inform extens
+questionnair tang conduct survey quit similar
+present one investig factor educ
+background work experi group size softwar size
+develop practic softwar qualiti
+
+futur plan
+
+scienc diver differ ﬁeld scienc use
+develop softwar differ way reﬁn
+analysi variou subgroup scientist address separ constitut obviou necessari
+improv present analysi sever instanc
+underli rational respons alway clear
+consid follow interview select respond clarifi issu exampl interpret
+standard softwar engin concept actual
+might vari among respond furthermor
+know answer research question becom possibl chang practic migrat relev softwar
+engin knowledg scienc ﬁeld
+
+acknowledg
+
+author wish thank laurel duquett statist consult servic univers toronto support
+statist analys work fund part
+grant mathwork
+

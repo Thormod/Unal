@@ -1,0 +1,210 @@
+
+manual instalacion aplicación nahual
+
+menes guzmán césar augusto
+
+perez sanchez daniel
+
+convenio con universidad nacion colombia
+universidad medellín
+
+medellín
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cóntenido
+
+pag
+
+
+
+
+
+
+
+requisito del sistema
+
+para que sistema funcion correctament debe tener la siguient
+consideracion momento realizar instalación
+
+sistema operativo
+
+indow adelant
+
+linux cualquier distribución linux
+
+memoria ram
+
+debe tener meno  memoria ram
+
+procesador
+
+debe tener meno procesador pentium
+
+requisisto instalación
+
+para realizar instalación aplicación nahual necesario tener instalado
+vario softwar
+
+python
+nltk página requier instalar también setuptool pip numpi
+treetagg
+django
+
+instalación del sistema
+
+para instalar python window ingresa dirección web
+http www python org dowload click enlac python indow
+x instal esto descarga archivo ejecut click sigu
+la instruccion hasta que finalic instalación
+
+la variabl entorno del sistema indow debe agregar
+siguient instrucción
+
+
+
+para instalar nltk necesita primero instalar setuptool que acuerdo
+la instruccion que indican debe descargar archivo llamado
+ez_setup ejecutarlo para versión linux debe ejecutar cualqu iera la
+siguient tre instruccion que muestran página
+
+wget http bootstrap pypa ez_setup python
+
+wget http bootstrap pypa ez_setup sudo python
+
+wget http bootstrap pypa ez_setup python user
+
+luego esto pued realizar instalación pip con siguient
+instrucción
+
+sudo easy_instal pip
+
+opcion instala numpi con siguient comando
+
+sudo pip instal numpi
+
+finalment realiza instalación librería nltk con comando
+
+sudo pip instal nltk
+
+instalacion treetagg
+
+nota ocasion ant instalar treetagg necesario instalar
+perl est pued conseguir siguient dirección web
+http www perl org get html
+
+para instalar treetagg debe ingresar página http www ci unimuenchen schmid tool treetagg sección download
+descargar lo siguient archivo para linux
+
+linux
+tag script
+instal tagger
+
+
+
+
+
+paramet file descargar english paramet file archivo
+descargado llamará english par linux utf bin
+
+continuación presenta interfaz gráfica sección download con lo
+archivo descarga
+
+recomienda crear una carpeta disco local llamada treetagg ubicar
+lo archivo descargado esta carpeta sin descomprimirlo
+
+una vez lo archivo estén esta carpeta ejecutar por consola siguient
+comando
+
+instal tagger
+
+comando anterior instalará tree tagger una vez instalado verificar
+crear una nueva variabl entorno llamada tagdir ojo debe llamars así
+debe escribirs mayúscula que apunt carpeta que creamo disco
+local llamada treetagg variabl agrega con siguient comando
+
+export tagdir
+
+
+
+
+
+
+
+
+
+una vez realizado est procedimiento tendremo instalado treetagg con
+tagset english
+
+django
+
+para instalar django debe ejecutar siguient comando termin
+
+sudo pip instal django
+
+con todo esto paso hecho pued realizar instalación aplicación
+
+pued colocar carpeta lnlc del proyecto cualquier part del directorio
+equipo
+
+abr termin navega hasta directorio dond encuentra proyecto
+lnlc ingresa esta carpeta encuentra archivo manag carpeta lnlc
+ingresa esta segunda carpeta encuentra archivo set
+
+abr con editor texto realiza la siguient modificacion agrega
+nombr base dato name usuario conexión user
+contraseña password necesario host host puerto port
+necesario para driver que realizar conexión con base dato
+utiliza mysql pero también pued utilicar oracl postgresql entr otro
+debe colocar nombr del driver
+
+para que funcion debe descargar driver mysql para python
+siguient url http dev mysql com download connector python
+
+
+
+
+luego debe configurar dond van almacenar lo archivo que
+media_root que sería ubicación física media_url que sería ubicación
+accedida por url
+
+para configuración lo archivo estático como lo cs la imágen del
+proyecto lo javascript debe realizar configuración lo siguient
+parámetro
+
+
+
+
+para poder realizar construcción base dato necesita ejecutar
+comando
+
+python manag syncdb
+
+est punto solicita crear usuario administrador ingresa nombr
+usuario contraseña listo
+
+para arrancar proyecto debe ejecutar siguient comando
+
+python manag runserv
+
+listo tien aplicación ejecutando
+
+
+
